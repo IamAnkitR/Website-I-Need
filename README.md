@@ -2,5 +2,6 @@
 <b>>> To see the undersea cables connecting internet-- https://www.submarinecablemap.com/</b> <br>
 <b>>> Documentation-- https://www.w3schools.com/  https://devdocs.io/</b><br>
 <b>>> Codepen-- https://codepen.io/ </b><br>
-<b>>> Colour Palettes -- https://colorhunt.co/
+<b>>> Colour Palettes -- https://colorhunt.co/ <br>
+<b>>> To create mock-ups -- https://sneakpeekit.com/.  https://balsamiq.cloud/ <br>
  
